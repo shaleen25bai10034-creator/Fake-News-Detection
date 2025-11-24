@@ -1,4 +1,4 @@
-# Fake News Detection
+
 
 **Project:** Fake News Detection using NLP & Machine Learning
 
